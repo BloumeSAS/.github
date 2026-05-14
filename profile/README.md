@@ -4,13 +4,14 @@
 
 <br><br>
 
-<img src="assets/logo.png" alt="Bloume SAS Logo" width="120">
+<img src="../assets/logo.png" alt="Bloume SAS Logo" width="120">
 
 # Bloume SAS
 ### *Next-Gen Software Solutions*
 
-[![Organization](https://img.shields.io/badge/Organization-Bloume_SAS-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bloume-SAS)
-[![Status](https://img.shields.io/badge/Status-Innovation_Mode-06b6d4?style=for-the-badge)](https://github.com/Bloume-SAS)
+[![Organization](https://img.shields.io/badge/Organization-BloumeSAS-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BloumeSAS)
+[![Status](https://img.shields.io/badge/Status-Innovation_Mode-06b6d4?style=for-the-badge)](https://github.com/BloumeSAS)
+[![Website](https://img.shields.io/badge/Website-bloume.fr-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bloume.fr)
 [![License](https://img.shields.io/badge/License-Proprietary-ef4444?style=for-the-badge)](#)
 
 ---
@@ -83,7 +84,11 @@
 *Chief Executive Officer*
 
 **Jules Beaufort**  
-*Founder & Lead Developer*
+*Founder, Lead Developer & Mandated Proxy (Full Powers)*
+
+<br>
+
+🌐 **[bloume.fr](https://bloume.fr)**
 
 <br>
 

@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="assets/logo.png" alt="Bloume SAS Logo" width="120">
+<img src="../assets/logo.png" alt="Bloume SAS Logo" width="120">
 
 # Bloume SAS
 ### *Solutions Logicielles Next-Gen*
