@@ -9,8 +9,8 @@
 # Bloume SAS
 ### *Solutions Logicielles Next-Gen*
 
-[![Organisation](https://img.shields.io/badge/Organisation-Bloume_SAS-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bloume-SAS)
-[![Statut](https://img.shields.io/badge/Statut-Mode_Innovation-06b6d4?style=for-the-badge)](https://github.com/Bloume-SAS)
+[![Organisation](https://img.shields.io/badge/Organisation-BloumeSAS-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BloumeSAS)
+[![Statut](https://img.shields.io/badge/Statut-Mode_Innovation-06b6d4?style=for-the-badge)](https://github.com/BloumeSAS)
 [![Licence](https://img.shields.io/badge/Licence-Propriétaire-ef4444?style=for-the-badge)](#)
 
 ---

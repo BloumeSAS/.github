@@ -9,8 +9,8 @@
 # Bloume SAS
 ### *Next-Gen Software Solutions*
 
-[![Organization](https://img.shields.io/badge/Organization-Bloume_SAS-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bloume-SAS)
-[![Status](https://img.shields.io/badge/Status-Innovation_Mode-06b6d4?style=for-the-badge)](https://github.com/Bloume-SAS)
+[![Organization](https://img.shields.io/badge/Organization-BloumeSAS-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BloumeSAS)
+[![Status](https://img.shields.io/badge/Status-Innovation_Mode-06b6d4?style=for-the-badge)](https://github.com/BloumeSAS)
 [![License](https://img.shields.io/badge/License-Proprietary-ef4444?style=for-the-badge)](#)
 
 ---
